@@ -1,0 +1,30 @@
+#title{
+    text-align: center;
+    border: 10px dashed black;
+}
+
+.store-elements{
+    display: flex;
+    justify-content: space-around;
+}
+
+.displayed-product{
+    display: flex;
+    justify-content: space-around;
+}
+
+.store-input{
+    display: flex;
+    justify-content: space-around;
+}
+
+.line{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons{
+    display:flex;
+    justify-content: space-around;
+}
+
